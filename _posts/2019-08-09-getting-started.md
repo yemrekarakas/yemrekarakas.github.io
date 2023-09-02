@@ -1,11 +1,10 @@
 ---
 title: Getting Started
-author: cotes
-date: 2019-08-09 20:55:00 +0800
+author: yek
+date: 2023-09-02 14:35:03 +0300
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
-img_path: '/posts/20180809'
 ---
 
 ## Prerequisites
