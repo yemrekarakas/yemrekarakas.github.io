@@ -20,7 +20,10 @@ timezone: Europe/Istanbul
 
 title: Yek # the main title
 
-tagline: Data Engineer # it will display as the sub-title
+tagline: 
+  - SQL | Python | Java Developer
+  - "\n"
+  - Data Engineer Candidate # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
