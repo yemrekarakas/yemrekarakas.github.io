@@ -7,7 +7,7 @@ order: 4
 ### Hi EveryBody 👋
 
 
-![yek](../assets/img/circle.png)
+![yek](/assets/img/circle.png)
 
 ✨ Hi, I am Emre. I am an experienced professional with 9 years of experience in software support and development at an ERP company. During this time, I developed deep expertise, especially in SQL, Java and JavaScript. I have extensive knowledge in producing customized solutions for customer needs, database management and software development.
 
