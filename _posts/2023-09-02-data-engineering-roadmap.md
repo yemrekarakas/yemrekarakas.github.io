@@ -2,9 +2,8 @@
 title: Data Engineering Roadmap
 author: yek
 date: 2023-09-02 17:08:55 +0300
-categories: [Blogging, Tutorial]
+categories: [Blogging, Data Engineering]
 tags: [data engineering, roadmap]
-pin: true
 ---
 
 Data engineering is a dynamic field that involves managing and processing data to enable data-driven decision-making. Here's a detailed roadmap to help you become a proficient data engineer.
