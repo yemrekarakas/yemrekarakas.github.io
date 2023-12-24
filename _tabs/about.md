@@ -6,11 +6,19 @@ order: 4
 
 ### Hi EveryBody 👋
 
-A highly qualified computer programmer with over 9 years of software development and support in the ERP industry. I am also a data engineer candidate.
-The ability to proactively identify, resolve, control, automate and maximize productivity. Advanced computer skills. Strengths in:
+
+![yek](../assets/img/circle.png)
+
+✨ Hi, I am Emre. I am an experienced professional with 9 years of experience in software support and development at an ERP company. During this time, I developed deep expertise, especially in SQL, Java and JavaScript. I have extensive knowledge in producing customized solutions for customer needs, database management and software development.
+
+✨ My career goal is to become a data engineer and I am determined to improve my qualifications accordingly. I am constantly developing my expertise in data engineering with my strong SQL skills and expertise in programming languages such as Java and JavaScript. My interest and curiosity in open source technologies and the Linux world make me an innovative and solution-oriented professional.
+
+✨ By combining high-level problem-solving ability, analytical thinking and customer-oriented approach, as well as collaborative teamwork and successful project management skills, I am on my way to becoming an effective expert in the field of data engineering. My goal is to further expand my knowledge in the field of data engineering, to contribute to pioneering projects in this field and to continue learning steadily.
+
+**Strengths in**:
 - SQL Programming
-- Python Programming
 - Java Programming
+- Python Programming
 - Open Source
 - Qlik Sense
 - CPM Master ERP
@@ -20,12 +28,6 @@ The ability to proactively identify, resolve, control, automate and maximize pro
 - 🔭 I am currently working on Data Engineering, Bash Scripting and Container(Docker) technologies.
 - ⚡ I have Javascript experience
 - 🌱 I have knowledge and curiosity about Open Source technologies.
-
-My ongoing courses: Coursera
-
-IBM Data Engineering Professional Certificate
-
-Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate
 
 
 [![GitHub Badge](https://img.shields.io/badge/-yemrekarakas-71c138?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yemrekarakas/)](https://github.com/yemrekarakas/) 
