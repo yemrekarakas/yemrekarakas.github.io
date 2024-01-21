@@ -59,6 +59,12 @@ jobs:
         with:
           path: "_site${{ steps.pages.outputs.base_path }}"
 
+      - name: Bundle Install with Protobuf Dependencies
+        run: |
+          bundle config --local build.google-protobuf --with-cpp-flags=-std=c++11
+          bundle install --jobs 4
+
+
   deploy:
     environment:
       name: github-pages
