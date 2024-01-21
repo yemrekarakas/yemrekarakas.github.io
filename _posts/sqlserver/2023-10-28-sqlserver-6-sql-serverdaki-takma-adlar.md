@@ -5,7 +5,8 @@ date: 2023-10-28 09:17:45 +0300
 categories: [Tutorial, SQL Server]
 tags: [sqlserver, sql, microsoft, t-sql]
 image:
-  path: /assets/img/posts/sqlserver/alias.png
+  # path: /assets/img/posts/sqlserver/alias.png
+  path: https://yemrekrks.sirv.com/posts/sqlserver/alias.png
   alt: Alias
 ---
 
