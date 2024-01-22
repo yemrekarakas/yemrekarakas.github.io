@@ -5,8 +5,8 @@ date: 2023-10-27 10:22:38 +0300
 categories: [Tutorial, SQL Server]
 tags: [sqlserver, sql, microsoft, t-sql]
 image:
-  path: /assets/img/posts/sqlserver/select-statement.png
-  alt: SELECT Statement
+  path: https://yemrekrks.sirv.com/posts/sqlserver/1e21ed0a13756652970ac88018ad5dff.jpg
+  alt: Jordan Pond Rocks, Acadia National Park, Seal Harbor, Maine, USA
 ---
 
 <style>

@@ -5,8 +5,8 @@ date: 2023-10-26 16:00:05 +0300
 categories: [Tutorial, SQL Server]
 tags: [sqlserver, sql, microsoft, t-sql]
 image:
-  path: /assets/img/posts/sqlserver/user-defined-table-types.png
-  alt: User Defined Table Types
+  path: https://yemrekrks.sirv.com/posts/sqlserver/1e7e3cee96bcd57a9274ce3f16d528da.jpg
+  alt: Country House near San Quirico d'Orcia, Val d'Orcia, Siena District, Tuscany, Italy
 ---
 
 <style>

@@ -5,8 +5,8 @@ date: 2023-10-28 11:41:43+0300
 categories: [Tutorial, SQL Server]
 tags: [sqlserver, sql, microsoft, t-sql]
 image:
-  path: /assets/img/posts/sqlserver/null.png
-  alt: NULL
+  path: https://yemrekrks.sirv.com/posts/sqlserver/1e24ecdbe9018d19c7581ad7dec16175.jpg
+  alt: Distant Wonderland, Landmannalaugar, Iceland
 ---
 
 

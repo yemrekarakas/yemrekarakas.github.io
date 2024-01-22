@@ -5,9 +5,8 @@ date: 2023-10-28 09:17:45 +0300
 categories: [Tutorial, SQL Server]
 tags: [sqlserver, sql, microsoft, t-sql]
 image:
-  # path: /assets/img/posts/sqlserver/alias.png
-  path: https://yemrekrks.sirv.com/posts/sqlserver/alias.png
-  alt: Alias
+  path: https://yemrekrks.sirv.com/posts/sqlserver/1e22e5841014c2f87617b851389789a6.jpg
+  alt: Thatched beach hut at Playa Blanca, Punta Cana, La Altagracia, Dominican Republic
 ---
 
 <style>

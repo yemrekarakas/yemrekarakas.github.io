@@ -5,8 +5,8 @@ date: 2023-10-19 22:44:53 +0300
 categories: [Tutorial, SQL Server]
 tags: [sqlserver, sql, microsoft, t-sql]
 image:
-  path: /assets/img/posts/sqlserver/sql-server-logo.png
-  alt: Microsoft SQL Server
+  path: https://yemrekrks.sirv.com/posts/sqlserver/1e7bf60c971d96f9854605fef11715f3.jpg
+  alt: Victoria Falls sunset with rainbow, Livingstone, Zambia
 ---
 
 <style>

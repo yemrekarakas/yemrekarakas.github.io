@@ -5,8 +5,8 @@ date: 2023-10-20 17:47:47 +0300
 categories: [Tutorial, SQL Server]
 tags: [sqlserver, sql, microsoft, t-sql]
 image:
-  path: /assets/img/posts/sqlserver/sql-server-data-types.png
-  alt: SQL Server Data Types
+  path: https://yemrekrks.sirv.com/posts/sqlserver/1e7db0f80f2499ecc72caac9a30f0c62.jpg
+  alt: Great Barrier Reef aerial view
 ---
 
 <style>

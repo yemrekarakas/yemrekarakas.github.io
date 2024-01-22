@@ -5,8 +5,8 @@ date: 2023-10-24 12:05:32 +0300
 categories: [Tutorial, SQL Server]
 tags: [sqlserver, sql, microsoft, t-sql]
 image:
-  path: /assets/img/posts/sqlserver/converting-data-types.png
-  alt: Converting Data Types
+  path: https://yemrekrks.sirv.com/posts/sqlserver/1e7de65b3809636c874e30ba231b0a1d.jpg
+  alt: Skógafoss waterfall with Aurora borealis or northern light, Iceland
 ---
 
 <style>
