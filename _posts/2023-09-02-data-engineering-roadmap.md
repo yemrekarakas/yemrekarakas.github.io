@@ -4,6 +4,9 @@ author: yek
 date: 2023-09-02 17:08:55 +0300
 categories: [Blogging, Data Engineering]
 tags: [data engineering, roadmap]
+image:
+  path: https://yemrekrks.sirv.com/posts/sqlserver/1eb3869b02a04f48bd346ea56012487c.jpg
+  alt: A hot air balloon ride over fields in Magalies River Valley, South Africa
 ---
 
 Data engineering is a dynamic field that involves managing and processing data to enable data-driven decision-making. Here's a detailed roadmap to help you become a proficient data engineer.
