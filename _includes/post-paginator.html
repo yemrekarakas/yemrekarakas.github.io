@@ -77,7 +77,7 @@
   {% if paginator.next_page_path %}
     {% assign next_url = paginator.next_page_path | relative_url %}
   {% else %}
-    {% assign next_url = '#' %}
+    {% assign next_url = '' %}
   {% endif %}
 
   <li class="page-item {% unless paginator.next_page_path %}disabled{% endunless %}">
