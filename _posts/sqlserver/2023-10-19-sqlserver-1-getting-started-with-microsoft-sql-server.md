@@ -96,7 +96,7 @@ ORDER BY CompanyName
 
 Northwind veritabanından CompanyName sütununa göre sıralanan Customers tablosunun ilk 10 kaydını getirecektir.
 
-[Northwind](assets/data/Northwind.rar) Microsoft'un örnek veritabanlarından biridir, [burada](https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/databases/northwind-pubs/instnwnd.sql) script halini bulabilirsiniz.
+[Northwind](https://github.com/yemrekarakas/yemrekarakas.github.io/blob/main/assets/data/Northwind.rar) Microsoft'un örnek veritabanlarından biridir, [burada](https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/databases/northwind-pubs/instnwnd.sql) script halini bulabilirsiniz.
 
 **Not:**
 USE Northwind; sonraki tüm sorgular için varsayılan veritabanını değiştirir.
