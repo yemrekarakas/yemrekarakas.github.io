@@ -23,7 +23,7 @@ y { color: yellow }
 | ---------------------- | ---- | ------------ | -----------: | -----------------: | ----------------------: |
 | <y>SQL Server 2022</y> | 16   | Dallas       | 16 Kas 2022  | 11 Oca 2028        | 11 Oca 2033             |
 | SQL Server 2019        | 15   | Aris Seattle | 04 Kas 2019  | 28 Şub 2025        | 08 Oca 2030             |
-| SQL Server 2017        | 14   | vNext        | 29 Eyl 2017  | 11 Eki 2022        | 12 Eki 2027             |
+| SQL Server 2017        | 14   | vNext        | 29 Eyl 2017  | <r>11 Eki 2022</r> | 12 Eki 2027             |
 | SQL Server 2016        | 13   |              | 01 Haz 2016  | <r>13 Tem 2021</r> | 14 Tem 2026             |
 | SQL Server 2014        | 12   |              | 05 Haz 2014  | <r>09 Tem 2019</r> | 09 Tem 2024             |
 | SQL Server 2012        | 11   | Denali       | 20 May 2012  | <r>11 Tem 2017</r> | <r>12 Tem 2022</r>      |
