@@ -5,6 +5,7 @@ Gemfile.lock
 
 # Jekyll cache
 .jekyll-cache
+.jekyll-metadata
 _site
 
 # RubyGems
@@ -19,3 +20,9 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+# draft posts
+_posts/draft/*
+
+# draft post images
+assets/img/posts/draft/*
