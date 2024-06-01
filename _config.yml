@@ -16,7 +16,7 @@ timezone: Europe/Istanbul
 
 title: Yunus Emre Karakaş # the main title
 
-tagline: SQL | Java | Python Programmer Data Engineer # it will display as the sub-title
+tagline: "SQL | Java | Python Programmer </br> Data Engineer - DataOps" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for my technical writing.
