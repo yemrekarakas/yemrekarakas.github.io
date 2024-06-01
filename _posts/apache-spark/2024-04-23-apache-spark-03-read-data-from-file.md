@@ -38,7 +38,7 @@ spark = SparkSession.builder \
 
 ```python
 ! curl -o datasets/Mall_Customers.csv \
-https://raw.githubusercontent.com/erkansirin78/datasets/master/Mall_Customers.csv
+https://raw.githubusercontent.com/yemrekarakas/Datasets/main/Mall_Customers.csv
 
       % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                      Dload  Upload   Total   Spent    Left  Speed
