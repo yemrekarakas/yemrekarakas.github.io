@@ -20,6 +20,7 @@ package-lock.json
 
 # Misc
 assets/js/dist
+notes.md
 
 # draft posts
 _posts/draft/*
